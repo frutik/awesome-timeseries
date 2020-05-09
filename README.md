@@ -67,3 +67,4 @@ Forecasting, anomaly detection, predictive analytics, econometrics and much more
 # Misc
 
 * [Champange sales forecasting](https://github.com/palashmoon/champange-sales-forecasting)
+* https://github.com/MaxBenChrist/awesome_time_series_in_python
