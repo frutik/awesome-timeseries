@@ -10,10 +10,7 @@ Forecasting, anomaly detection, predictive analytics, econometrics and much more
 * [3 facts about time series forecasting that surprise experienced machine learning practitioners.](https://towardsdatascience.com/3-facts-about-time-series-forecasting-that-surprise-experienced-machine-learning-practitioners-69c18ee89387)
 * [Seasonality in Python: additive or multiplicative model?](https://medium.com/@sigmundojr/seasonality-in-python-additive-or-multiplicative-model-d4b9cf1f48a7)
 * [How to forecast sales with Python using SARIMA model](https://towardsdatascience.com/how-to-forecast-sales-with-python-using-sarima-model-ba600992fa7d)
-* [Time Series: why do we need Stationarity and Ergodicity](https://medium.com/datadriveninvestor/time-series-why-do-we-need-stationarity-and-ergodicity-f34d2a344458)
-  
-  A step-by-step guide of statistic and python to time series forecasting
-  
+* [Time Series: why do we need Stationarity and Ergodicity](https://medium.com/datadriveninvestor/time-series-why-do-we-need-stationarity-and-ergodicity-f34d2a344458)  
 * [Machine Learning for Time Series Data](https://medium.com/@ODSC/machine-learning-for-time-series-data-e3971d38005b)
 * How (not) to use Machine Learning for time series forecasting: [Avoiding the pitfalls](https://towardsdatascience.com/how-not-to-use-machine-learning-for-time-series-forecasting-avoiding-the-pitfalls-19f9d7adf424), [The sequel](https://towardsdatascience.com/how-not-to-use-machine-learning-for-time-series-forecasting-the-sequel-e117e6ff55f1)  
 * [Building a real-time anomaly detection system for time series at Pinterest](https://medium.com/pinterest-engineering/building-a-real-time-anomaly-detection-system-for-time-series-at-pinterest-a833e6856ddd)
